@@ -1,0 +1,6 @@
+HTTP/1.0 200 OK
+Cache-Control: no-cache, private
+Content-Type:  application/pdf
+Date:          Sat, 16 Jul 2022 03:14:57 GMT
+
+{"error":"Proses signing gagal : Terdapat kendala pada sertifikat elektronik : org.springframework.web.client.RestClientException: Could not extract response: no suitable HttpMessageConverter found for response type [class id.go.bssn.bsre.dto.AjaxResponse] and content type [text/plain] 2032","status_code":400}
